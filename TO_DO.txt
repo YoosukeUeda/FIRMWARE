@@ -1,0 +1,26 @@
+// ---------------------------------------------------------------------------------------------------------------
+Prioridade Codigo // ----------------------------------------------------------------------------------------------
+
+() - AM Code
+() - GPS Jammer
+(x) - Grafico St7920
+() - Debug
+() - Montagem 2 Placas de Antena 
+() - botao frequencia
+() - teste em campo interferencia no sinal em relação ao ambiente
+
+Realizado / Feito // ----------------------------------------------------------------------------------------------
+(X) Montagem da antena 
+(X) logica dos botoões semi - pronto
+(X) Comunicação SPI 
+(X) Antena capitando sinal de radio e detector de Jammer
+(x) Fazer codigo do Display
+(X) Teste de bateria
+(x) Nivel bateria
+(x) - Display St7920
+(x) - Arquivo de GPIOS
+(X) - front end display
+(X) - Criação de Tasks e organização do Codigo
+(X) - Calibrar ADC/Bateria
+(X) - Bk fast read
+(X) - Jammer read
